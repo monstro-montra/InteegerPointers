@@ -40,6 +40,5 @@ int main() {
     intArray::printArray(inputs.arr); //call printArray function on inputs.arr
     intArray::getAddresses();
     system("pause>0");
-    cout << "test";
     return 0;
 }
